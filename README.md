@@ -217,18 +217,3 @@ from xgboost import XGBClassifier
 from lightgbm import LGBMClassifier
 import shap
 ```
-
----
-
-## Bonus Features (Roadmap)
-- [ ] FastAPI real-time prediction endpoint
-- [ ] Airflow DAG for automated weekly retraining
-- [ ] Customer Lifetime Value (CLV) integration
-- [ ] Uplift modelling for intervention impact
-- [ ] Model drift detection (PSI / KS test)
-- [ ] A/B testing framework for retention strategies
-- [ ] Email campaign simulator
-
----
-
-*Plagiarism declaration: All code, feature engineering logic, intervention rules, and business analysis in this submission are original work.*
