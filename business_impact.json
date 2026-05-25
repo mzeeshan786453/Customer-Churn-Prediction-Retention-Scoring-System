@@ -1,0 +1,9 @@
+{
+  "high_risk_customers": 299,
+  "assumed_retention_rate": "30%",
+  "customers_retained": 89,
+  "avg_monthly_charges": 78.18414715719064,
+  "monthly_revenue_saved": 6958.39,
+  "annual_revenue_saved": 83500.68,
+  "avg_clv_per_customer": 1876.42
+}

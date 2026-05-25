@@ -1,0 +1,77 @@
+[
+  {
+    "customerID": "CUST-00004",
+    "churn_probability": 0.6764,
+    "risk_segment": "HIGH",
+    "top_churn_reasons": [
+      "Month-to-month contract \u2014 no long-term commitment",
+      "High-risk payment method (electronic check)",
+      "Monthly charges above $80 \u2014 price sensitivity risk"
+    ],
+    "recommended_actions": [
+      "Offer 20% discount to upgrade to annual contract",
+      "Offer bill credit to switch to auto-pay",
+      "Offer a customized cost-saving bundle"
+    ]
+  },
+  {
+    "customerID": "CUST-00055",
+    "churn_probability": 0.7379,
+    "risk_segment": "HIGH",
+    "top_churn_reasons": [
+      "Month-to-month contract \u2014 no long-term commitment",
+      "New customer (\u2264 6 months) \u2014 high early-life churn risk",
+      "Monthly charges above $80 \u2014 price sensitivity risk"
+    ],
+    "recommended_actions": [
+      "Offer 20% discount to upgrade to annual contract",
+      "Assign onboarding specialist; proactive welcome call",
+      "Offer a customized cost-saving bundle"
+    ]
+  },
+  {
+    "customerID": "CUST-00072",
+    "churn_probability": 0.7503,
+    "risk_segment": "HIGH",
+    "top_churn_reasons": [
+      "Month-to-month contract \u2014 no long-term commitment",
+      "High-risk payment method (electronic check)",
+      "Monthly charges above $80 \u2014 price sensitivity risk"
+    ],
+    "recommended_actions": [
+      "Offer 20% discount to upgrade to annual contract",
+      "Offer bill credit to switch to auto-pay",
+      "Offer a customized cost-saving bundle"
+    ]
+  },
+  {
+    "customerID": "CUST-00074",
+    "churn_probability": 0.7714,
+    "risk_segment": "HIGH",
+    "top_churn_reasons": [
+      "Month-to-month contract \u2014 no long-term commitment",
+      "High-risk payment method (electronic check)",
+      "Monthly charges above $80 \u2014 price sensitivity risk"
+    ],
+    "recommended_actions": [
+      "Offer 20% discount to upgrade to annual contract",
+      "Offer bill credit to switch to auto-pay",
+      "Offer a customized cost-saving bundle"
+    ]
+  },
+  {
+    "customerID": "CUST-00080",
+    "churn_probability": 0.7653,
+    "risk_segment": "HIGH",
+    "top_churn_reasons": [
+      "Month-to-month contract \u2014 no long-term commitment",
+      "High-risk payment method (electronic check)",
+      "No active tech support subscription"
+    ],
+    "recommended_actions": [
+      "Offer 20% discount to upgrade to annual contract",
+      "Offer bill credit to switch to auto-pay",
+      "Offer 3-month free TechSupport trial"
+    ]
+  }
+]
