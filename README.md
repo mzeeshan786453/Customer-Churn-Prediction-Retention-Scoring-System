@@ -1,6 +1,4 @@
 # Customer Churn Prediction & Retention Scoring System
-**Teyzix Core Internship | Task DS-3 | Submitted by: [Your Name] | Ref-ID: [Your-ID]**
-
 ---
 
 ## Project Overview
